@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hamxxa-bit
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me fmohdhamza@gmail.com
+- Frontend developer | React | HTML/CSS
 
 
 <!---
